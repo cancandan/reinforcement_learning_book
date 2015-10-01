@@ -1,1 +1,1 @@
-# reinforcement_learning_book
+# reinforcement_learning_book exercises
